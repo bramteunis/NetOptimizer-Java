@@ -1,5 +1,2 @@
-# windesheim-java-gui
-Windesheim Year 1: semester 2 Project: Build a Java monitoring app from scratch
-
-We used this ERD in the database for our application
-![This is an image](https://user-images.githubusercontent.com/76699269/174133809-43ce6f0d-dac7-4342-9329-8b111f0604af.png)
+### **Project Description:**  
+**NetOptimizer-Java** is a powerful **Java**-based application designed for monitoring and optimizing network infrastructure. It features an intuitive **drag-and-drop interface** that allows users to visually build and customize their network layouts. The application also includes an intelligent algorithm that analyzes the network structure to determine the **optimal configuration** for performance and efficiency. Whether you're managing a small office network or a complex enterprise setup, **NetOptimizer-Java** helps streamline network design and monitoring.
